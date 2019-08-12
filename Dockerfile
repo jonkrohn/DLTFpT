@@ -1,5 +1,6 @@
 # Details of the base image are here: hub.docker.com/r/jupyter/scipy-notebook
 # Tag [2ce7c06a61a1] is latest image as of August 12, 2019 
+# It runs Python 3.7.3
 
 FROM jupyter/scipy-notebook:2ce7c06a61a1 
 
