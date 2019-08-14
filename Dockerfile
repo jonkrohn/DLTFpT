@@ -8,6 +8,9 @@ MAINTAINER Jon Krohn <jon@untapt.com>
 
 USER $NB_USER
 
+# Downgrade NumPy due to version 1.17.0 tensorflow warning:
+RUN pip install numpy==1.16.4 
+
 # Install TensorFlow: 
 RUN pip install tensorflow==2.0.0-beta1
 
