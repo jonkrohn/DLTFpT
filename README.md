@@ -1,2 +1,2 @@
 # DLTFpT
-Deep Learning with TensorFlow, Keras and PyTorch
+Deep Learning with TensorFlow 2, Keras and PyTorch
