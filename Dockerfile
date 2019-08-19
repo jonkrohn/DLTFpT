@@ -16,5 +16,8 @@ RUN pip install tensorflow==2.0.0-beta1
 
 # Install PyTorch libraries:
 RUN pip install https://download.pytorch.org/whl/cpu/torch-1.0.1.post2-cp37-cp37m-linux_x86_64.whl 
-RUN pip install torchvision
-RUN pip install torchsummary
+RUN pip install torchvision==0.4.0
+RUN pip install torchsummary==1.5.1
+
+# Install TFlearn for its Oxford Flowers 17 dataset: 
+RUN pip install tflearn==0.3.2 
