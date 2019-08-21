@@ -8,4 +8,4 @@ Installation instructions for running the code in this repository can be found i
 
 ## Notebooks
 
-All of the code covered in these LiveLessons can be found in [this directory](https://github.com/jonkrohn/DLTFpT/tree/master/notebooks) as Jupyter notebooks.
+All of the code covered in the LiveLessons can be found in [this directory](https://github.com/jonkrohn/DLTFpT/tree/master/notebooks) as Jupyter notebooks.
