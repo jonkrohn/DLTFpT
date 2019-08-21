@@ -10,7 +10,7 @@ The major shortcoming of using Colab is that we can't control or freeze the vers
 
 ## macOS
 
-Detailed step-by-step instructions for running the code notebooks for on a Mac can be found [here](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/installation/step_by_step_MacOSX_install.md).
+Detailed step-by-step instructions for running the code notebooks for on a Mac can be found [here](https://github.com/jonkrohn/DLTFpT/blob/master/installation/macOS.md).
 
 
 ## Unix
