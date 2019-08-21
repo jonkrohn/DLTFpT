@@ -17,12 +17,12 @@ Detailed step-by-step instructions for running the code notebooks for on a Mac c
 
 #### Where You Already Have the Dependencies
 
-The dependencies are provided in this repository's [Dockerfile](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/Dockerfile). If you have these packages configured as you like them, you can simply `git clone https://github.com/the-deep-learners/deep-learning-illustrated`.
+The dependencies are provided in this repository's [Dockerfile](https://github.com/jonkrohn/DLTFpT/blob/master/Dockerfile). If you have these packages configured as you like them, you can simply `git clone https://github.com/jonkrohn/DLTFpT.git`.
 
 #### Where You Are Missing Dependencies
 
 1. Get Docker CE for, e.g., [Ubuntu](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/)
-2. Follow all the steps in our [Step-by-Step Instructions for Mac](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/installation/step_by_step_MacOSX_install.md) that involve executing code at the command line. That is, execute all steps but one, four and five. 
+2. Follow all the steps in our [Step-by-Step Instructions for Mac](ps://github.com/jonkrohn/DLTFpT/blob/master/installation/macOS.md) that involve executing code at the command line. That is, execute all steps but one, four and five. 
 
 ## Windows
 
