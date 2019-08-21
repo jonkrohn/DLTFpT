@@ -28,6 +28,6 @@ The dependencies are provided in this repository's [Dockerfile](https://github.c
 
 Community members have kindly contributed different Windows installation instructions for different use-cases:
 
-1. If you have a 64-bit installation of Windows 10 Professional or Enterprise, you can follow the [full Docker container installation](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/installation/step_by_step_Windows_Docker_install.md), which will ensure that you have all the dependencies. 
-2. If you've never heard of *Anaconda* as being anything other than a snake, you can follow the simple step-by-step instructions [here](https://github.com/the-deep-learners/deep-learning-illustrated/blob/master/installation/simple_Windows_Anaconda_install.md). 
+1. If you have a 64-bit installation of Windows 10 Professional or Enterprise, you can follow the [full Docker container installation](https://github.com/jonkrohn/DLTFpT/blob/master/installation/windows_step_by_step.md), which will ensure that you have all the dependencies. 
+2. If you've never heard of *Anaconda* as being anything other than a snake, you can follow the simple step-by-step instructions [here](https://github.com/jonkrohn/DLTFpT/blob/master/installation/windows_simple.md). 
 
