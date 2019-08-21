@@ -15,7 +15,7 @@ These instructions enable you to run deep learning libraries from the comfort of
 7. Move into the *deep-learning-illustrated* directory by executing `cd DLTFpT`
 8. Build the Docker image by executing `sudo docker build -t dltfpt-stack .` -- note that you'll get an error if you miss the final `.` in the command! 
 9. Run the Docker image as a Docker container by executing `sudo docker run -v $(pwd):/home/jovyan/work -it --rm -p 8888:8888 dltfpt-stack` (you can think of the image as a recipe and the container as the cake produced by the recipe). For your convenience there is a bash script, **rundocker.sh** that executes the same command, so you can simply run `source rundocker.sh`. This command must be executed from the directory where you cloned the repository, e.g., the `DLTFpT` directory
-10. In the web browser of your choice (e.g., Chrome), copy and paste the URL created by Docker (this begins with `http://localhost:8888/?token=` and should be visible near the bottom of your Terminal window)
+10. In the web browser of your choice (e.g., Chrome), copy and paste the URL created by Docker (this begins with `http://127.0.0.1:8888/?token=` and should be visible near the bottom of your Terminal window)
 
 ## Shutdown
 
