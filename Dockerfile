@@ -19,3 +19,5 @@ RUN pip install torchsummary==1.5.1
 # Install NLP libraries: 
 RUN pip install nltk==3.4.5
 RUN pip install gensim==3.8.1
+RUN pip install spacy==2.2.1
+RUN python -m spacy download en_core_web_sm
