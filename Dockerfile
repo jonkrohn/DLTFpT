@@ -22,7 +22,3 @@ RUN pip install gensim==3.8.1
 RUN pip install spacy==2.2.1
 RUN python -m spacy download en_core_web_sm
 
-# Install libraries for image segmentation:
-RUN pip install opencv-contrib-python==4.1.1.26
-RUN pip install tqdm==4.37.0
-RUN pip install keras-segmentation==0.2.0
