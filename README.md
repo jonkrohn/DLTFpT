@@ -1,6 +1,6 @@
-# Deep Learning with TensorFlow 2, Keras, and PyTorch
+# Deep Learning with TensorFlow, Keras, and PyTorch
 
-This repository is home to the code that accompanies [Jon Krohn's](www.jonkrohn.com) *Deep Learning with TensorFlow 2, Keras, and PyTorch* LiveLessons. 
+This repository is home to the code that accompanies [Jon Krohn's](www.jonkrohn.com) *Deep Learning with TensorFlow, Keras, and PyTorch* LiveLessons, featuring the Tensorflow 2 library.
 
 ## Installation
 
