@@ -22,3 +22,5 @@ RUN pip install gensim==3.8.1
 RUN pip install spacy==2.2.1
 RUN python -m spacy download en_core_web_sm
 
+# Install Reinforcement Learning library:
+RUN pip install gym==0.12.5
