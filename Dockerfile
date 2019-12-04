@@ -24,3 +24,6 @@ RUN python -m spacy download en_core_web_sm
 
 # Install Reinforcement Learning library:
 RUN pip install gym==0.12.5
+
+# Install for Object Detection notebook: 
+RUN pip install opencv-python==4.1.2.30
