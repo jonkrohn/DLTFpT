@@ -8,6 +8,8 @@ There are three sets of video tutorials in the series, which together parallel t
 2. [Deep Learning for Natural Language Processing, 2nd Ed.](https://learning.oreilly.com/videos/deep-learning-for/9780136620013) (Feb 2020)
 3. [Machine Vision, GANs, and Deep Reinforcement Learning](https://learning.oreilly.com/videos/machine-vision-gans/9780136620181) (Mar 2020)
 
+The above order is the recommended sequence in which to undertake these tutorials. That said, the first in the series (_Deep Learning with TensorFlow, Keras, and PyTorch_) provides a strong foundation for either of the other two. 
+
 ## Installation
 
 Installation instructions for running the code in this repository can be found in the [installation directory](https://github.com/jonkrohn/DLTFpT/tree/master/installation).
