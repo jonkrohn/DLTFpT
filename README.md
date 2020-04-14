@@ -4,7 +4,7 @@ This repository is home to the code that accompanies [Jon Krohn's](www.jonkrohn.
 
 There are three sets of video tutorials in the series: 
 
-1. The eponymous foundational [Deep Learning with TensorFlow, Keras, and PyTorch](https://learning.oreilly.com/videos/deep-learning-with/9780136617617) (released in Feb 2020)
+1. The eponymous [Deep Learning with TensorFlow, Keras, and PyTorch](https://learning.oreilly.com/videos/deep-learning-with/9780136617617) (released in Feb 2020)
 2. [Deep Learning for Natural Language Processing, 2nd Ed.](https://learning.oreilly.com/videos/deep-learning-for/9780136620013) (Feb 2020)
 3. [Machine Vision, GANs, and Deep Reinforcement Learning](https://learning.oreilly.com/videos/machine-vision-gans/9780136620181) (Mar 2020)
 
