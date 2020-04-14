@@ -13,7 +13,7 @@ The above order is the recommended sequence in which to undertake these tutorial
 Taken all together, the series -- over 18 total hours of instruction and hands-on demos -- parallels the entirety of the content in the book [Deep Learning Illustrated](https://www.deeplearningillustrated.com/), plus it includes some extra content such as: 
 
 * Detailed interactive examples involving training and testing deep learning models in PyTorch
-* High-level discussion of transformer-based natural-language-processing models like BERT and ELMo
+* High-level discussion of transformer-based natural-language-processing models like BERT, ELMo, and GPT-2      
 * Detailed interactive examples of training advanced machine vision models (image segmentation, object detection)
 
 ## Installation
