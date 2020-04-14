@@ -23,3 +23,26 @@ Installation instructions for running the code in this repository can be found i
 ## Notebooks
 
 There are dozens of meticulously crafted Jupyter notebooks of code associated with these videos. All of them can be found in [this directory](https://github.com/jonkrohn/DLTFpT/tree/master/notebooks). 
+
+Below is a breakdown of the lessons covered across the videos, including their duration and associated notebooks.
+
+#### Deep Learning with TensorFlow, Keras, and PyTorch 
+
+* Seven hours and 13 minutes total runtime
+* Lesson 1: Introduction to Deep Learning and Artificial Intelligence (1 hour, 47 min)
+	* [Shallow Net in TensorFlow](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/shallow_net_in_tensorflow.ipynb)
+* Lesson 2: How Deep Learning Works (2 hours, 16 min)
+	* [Sigmoid Function](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/sigmoid_function.ipynb)
+	* [Softmax Demo](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/softmax_demo.ipynb)
+	* [Quadratic Cost](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/quadratic_cost.ipynb)
+	* [Cross-Entropy Cost](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/cross_entropy_cost.ipynb)
+	* [Intermediate Net in TensorFlow](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/intermediate_net_in_tensorflow.ipynb)
+* Lesson 3: High-Performance Deep Learning Networks (1 hour, 16 min)
+	* [Weight Initialization](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/weight_initialization.ipynb)
+	* [Deep Net in TensorFlow](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/deep_net_in_tensorflow.ipynb)
+* Lesson 4: Convolutional Neural Networks (47 min)
+	* [LeNet in TensorFlow](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/lenet_in_tensorflow.ipynb)
+* Lesson 5: Moving Forward with Your Own Deep Learning Projects (1 hour, 4 min)
+	* [Shallow Net in PyTorch](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/shallow_net_in_pytorch.ipynb)
+	* [Deep Net in PyTorch](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/deep_net_in_pytorch.ipynb)
+	* [LeNet in TensorFlow for Fashion MNIST](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/lenet_in_tensorflow_for_fashion_MNIST.ipynb)
