@@ -16,6 +16,7 @@ Taken all together, the series -- over 18 total hours of instruction and hands-o
 * How to generate novel sequences of natural language in the style of your training data
 * High-level discussion of transformer-based natural-language-processing models like BERT, ELMo, and GPT-2 
 * Detailed interactive examples of training advanced machine vision models (image segmentation, object detection)
+* All hands-on code demos involving TensorFlow or Keras have been updated to TensorFlow 2
 
 ## Installation
 
