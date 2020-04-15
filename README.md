@@ -10,7 +10,15 @@ There are three sets of video tutorials in the series:
 
 The above order is the recommended sequence in which to undertake these tutorials. That said, the first in the series provides a strong foundation for either of the other two. 
 
-Taken all together, the series -- over 18 total hours of instruction and hands-on demos -- parallels the entirety of the content in the book [Deep Learning Illustrated](https://www.deeplearningillustrated.com/), plus it includes some extra content such as: 
+Taken all together, the series -- over 18 total hours of instruction and hands-on demos -- parallels the entirety of the content in the book [Deep Learning Illustrated](https://www.deeplearningillustrated.com/). This means that videos introduce **all of deep learning**: 
+
+* What deep neural networks are and how they work, both mathematically and using the most popular code libraries
+* Machine vision, primarily with convolutional neural networks
+* Natural language processing, including with recurrent neural networks
+* Artistic creativity with generative adversarial networks (GANs)
+* Complex, sequential decision-making with deep reinforcement learning
+
+These video tutorial also includes some extra content that is not available in the book, such as: 
 
 * Detailed interactive examples involving training and testing deep learning models in PyTorch
 * How to generate novel sequences of natural language in the style of your training data
