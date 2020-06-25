@@ -64,9 +64,9 @@ Below is a breakdown of the lessons covered across the videos, including their d
 
 * Five hours total runtime
 * Lesson 1: The Power and Elegance of Deep Learning for NLP (46 min)
-* Lesson 2: Word Vectors (1 hour, 7 min) -- free YouTube video [here](https://youtu.be/rqyw06k91pA)
+* Lesson 2: Word Vectors (1 hour, 7 min) 
 	* [Creating Word Vectors with word2vec](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/creating_word_vectors_with_word2vec.ipynb)
-* Lesson 3: Modeling Natural Language Data (1 hour, 43 min)
+* Lesson 3: Modeling Natural Language Data (1 hour, 43 min) -- free YouTube video [here](https://youtu.be/rqyw06k91pA)
 	* [Natural Language Preprocessing](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/natural_language_preprocessing.ipynb)
 	* [Document Classification with a Dense Neural Net](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/dense_sentiment_classifier.ipynb)
 	* [Classification with a Convolutional Neural Net](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/convolutional_sentiment_classifier.ipynb)
