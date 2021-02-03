@@ -41,7 +41,7 @@ Below is a breakdown of the lessons covered across the videos, including their d
 * Seven hours and 13 minutes total runtime
 * Lesson 1: Introduction to Deep Learning and Artificial Intelligence (1 hour, 47 min)
 	* [Shallow Net in TensorFlow](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/shallow_net_in_tensorflow.ipynb)
-* Lesson 2: How Deep Learning Works (2 hours, 16 min) -- free YouTube video [here](https://youtu.be/wBgW3ZtlPT8)
+* Lesson 2: How Deep Learning Works (2 hours, 16 min) -- **free YouTube video [here](https://youtu.be/wBgW3ZtlPT8)**
 	* [Sigmoid Function](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/sigmoid_function.ipynb)
 	* [Softmax Demo](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/softmax_demo.ipynb)
 	* [Quadratic Cost](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/quadratic_cost.ipynb)
@@ -66,7 +66,7 @@ Below is a breakdown of the lessons covered across the videos, including their d
 * Lesson 1: The Power and Elegance of Deep Learning for NLP (46 min)
 * Lesson 2: Word Vectors (1 hour, 7 min) 
 	* [Creating Word Vectors with word2vec](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/creating_word_vectors_with_word2vec.ipynb)
-* Lesson 3: Modeling Natural Language Data (1 hour, 43 min) -- free YouTube video [here](https://youtu.be/rqyw06k91pA)
+* Lesson 3: Modeling Natural Language Data (1 hour, 43 min) -- **free YouTube video [here](https://youtu.be/rqyw06k91pA)**
 	* [Natural Language Preprocessing](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/natural_language_preprocessing.ipynb)
 	* [Document Classification with a Dense Neural Net](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/dense_sentiment_classifier.ipynb)
 	* [Classification with a Convolutional Neural Net](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/convolutional_sentiment_classifier.ipynb)
@@ -85,7 +85,7 @@ Below is a breakdown of the lessons covered across the videos, including their d
 
 * Six hours and six minutes total runtime
 * Lesson 1: Orientation (35 min)
-* Lesson 2: Convolutional Neural Networks for Machine Vision (2 hours, 2 min) -- free YouTube video [here](https://youtu.be/c4e7nleyoZM)
+* Lesson 2: Convolutional Neural Networks for Machine Vision (2 hours, 2 min) -- **free YouTube video [here](https://youtu.be/c4e7nleyoZM)**
 	* [LeNet](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/lenet_in_tensorflow.ipynb)
 	* [AlexNet](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/alexnet_in_tensorflow.ipynb)
 	* [VGGNet](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/vggnet_in_tensorflow.ipynb)
