@@ -22,7 +22,7 @@ These video tutorials also includes some extra content that is not available in 
 
 * Detailed interactive examples involving training and testing deep learning models in PyTorch
 * How to generate novel sequences of natural language in the style of your training data
-* High-level discussion of transformer-based natural-language-processing models like BERT, ELMo, and GPT-2 
+* High-level discussion of transformer-based natural-language-processing models like BERT, ELMo, and GPT-3 
 * Detailed interactive examples of training advanced machine vision models (image segmentation, object detection)
 * All hands-on code demos involving TensorFlow or Keras have been updated to TensorFlow 2
 
@@ -97,6 +97,6 @@ Below is a breakdown of the lessons covered across the videos, including their d
 * Lesson 5: Deep Q-Learning and Beyond (1 hour, 25 min)
 	* [Cartpole Game-Playing DQN](https://github.com/jonkrohn/DLTFpT/blob/master/notebooks/cartpole_dqn.ipynb)
 	
-You've reached the bottom of this page! As a reward, here's a myopic trilobite created by Aglae Bassens, a co-author of the book [Deep Learning Illustrated](https://deeplearningillustrated.com):  
+You've reached the bottom of this page! As a reward, here's a myopic trilobite created by Aglaé Bassens, illustrator of the book [Deep Learning Illustrated](https://deeplearningillustrated.com):  
 
 ![](https://github.com/illustrated-series/deep-learning-illustrated/blob/master/img/bespectacled_trilobite.jpeg)
