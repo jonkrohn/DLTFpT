@@ -11,8 +11,8 @@ These instructions enable you to run deep learning libraries from the comfort of
 3. Retrieve all of the code for these LiveLessons by executing `git clone https://github.com/jonkrohn/DLTFpT.git` (if you haven't used `git` before, you may be prompted to install Xcode -- do it!)
 4. [Install the Docker "Stable channel"](https://docs.docker.com/docker-for-mac/install/) (if you are already using an older version of Docker and run into installation issues downstream, try updating to the latest version of Docker)
 5. Start Docker, e.g., by using Finder to navigate to your Applications folder and double-clicking on the Docker icon
-6. Back in Terminal, execute `source DLTFpT/installation/let_jovyan_write.sh` so that you can write to files in the *deep-learning-illustrated* directory from inside the Docker container we'll be running shortly
-7. Move into the *deep-learning-illustrated* directory by executing `cd DLTFpT`
+6. Back in Terminal, execute `source DLTFpT/installation/let_jovyan_write.sh` so that you can write to files in the *DLTFpT* directory from inside the Docker container we'll be running shortly
+7. Move into the *DLTFpT* directory by executing `cd DLTFpT`
 8. Pull the Docker image by executing `docker pull jonkrohn/dltfpt-stack:videos`
 9. Run the Docker image as a Docker container by executing `sudo docker run -v $(pwd):/home/jovyan/work -it --rm -p 8888:8888 dltfpt-stack` (you can think of the Docker image as a recipe and the Docker container as the cake produced by the recipe). For your convenience there is a bash script, **rundocker.sh** that executes the same command, so you can simply run `source rundocker.sh`. This command must be executed from the directory where you cloned the repository, e.g., the `DLTFpT` directory.
 10. In the web browser of your choice (e.g., Chrome), copy and paste the URL created by Docker (this begins with `http://127.0.0.1:8888/?token=` and should be visible near the bottom of your Terminal window)
