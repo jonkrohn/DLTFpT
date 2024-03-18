@@ -1,6 +1,6 @@
 # Deep Learning with TensorFlow, Keras, and PyTorch
 
-This repository is home to the code that accompanies [Jon Krohn's](www.jonkrohn.com) *Deep Learning with TensorFlow, Keras, and PyTorch* series of video tutorials. 
+This repository is home to the code that accompanies [Jon Krohn's](https://www.jonkrohn.com) *Deep Learning with TensorFlow, Keras, and PyTorch* series of video tutorials. 
 
 There are three sets of video tutorials in the series: 
 
